@@ -134,11 +134,5 @@ public class Main {
 
         System.out.println("Наибольшее значение трех чисел = " + max);
 
-
-
-
-
-
-
     }
 }
